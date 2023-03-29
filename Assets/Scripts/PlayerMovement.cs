@@ -37,7 +37,7 @@ namespace Hanzo
         [SerializeField] private float sensitivity = 3f;
         [SerializeField] private float pitch = 0f;
         float MinPitch = -45f;
-        float MaxPitch = 45f;
+        float MaxPitch = 20f;
 
 
         void Look()
