@@ -17,7 +17,10 @@ namespace Hanzo
         void Start()
         {
             characterController = GetComponent<CharacterController>();
+            
         }
+
+     
 
         // Update is called once per frame
         void Update()

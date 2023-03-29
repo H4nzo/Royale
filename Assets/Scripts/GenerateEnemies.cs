@@ -17,7 +17,7 @@ namespace Hanzo
 
         IEnumerator CreateEnemies()
         {
-            int numberOfEnemies = 10;
+            int numberOfEnemies = 1;
             var yPos = 0.58f;
 
             while (enemiesCreated < numberOfEnemies)
